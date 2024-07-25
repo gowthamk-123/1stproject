@@ -1,4 +1,4 @@
-# Calculator Application
+# JAVA 1st PROJECT
 
 This is a simple console-based Calculator application implemented in Java. It supports basic arithmetic operations and matrix operations.
 
